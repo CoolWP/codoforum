@@ -1,0 +1,32 @@
+/*
+* @Author: suifengtec
+* @Date:   2016-02-20 22:40:45
+* @Last Modified by:   suifengtec
+* @Last Modified time: 2016-02-20 23:23:54
+*/
+body ,
+.codo_categories,
+.codo_categories .codo_categories_category .codo_category_title,
+.codo_topics .codo_topics_body>div>article>.codo_topics_topic_content>.codo_topics_topic_name,
+.codo_topics .codo_topics_body>.codo_topics_end,
+.codo_topics .codo_topics_end,
+.codo_input,
+.codo_topics .codo_topics_create .bootstrap-tagsinput,
+.codo_new_reply .codo_new_reply_preview,
+.codo_btn,
+.codo_switch
+{
+    font-family: 'Source Code Pro','Microsoft Yahei',STXihei,sans-serif;
+}
+
+.container .codo_posts > .codo_widget > .codo_widget-content > article > .codo_posts_post_foot > .codo_posts_post_action .codo_btn_def
+{
+    height: 2.18em;
+    display:none;
+}
+.container .codo_posts > .codo_widget > .codo_widget-content > article > .codo_posts_post_foot > .codo_posts_post_action .codo_btn{
+    border-radius: 0;
+}
+.codo_btn {
+    padding: .4em 1.5em;
+}
