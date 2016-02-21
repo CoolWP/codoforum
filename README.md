@@ -11,3 +11,9 @@ CodoForum 是一个 PHP + MySQL 的轻量级的论坛程序, 简洁高效实用�
 * 将 sites 目录下的文件(这些文件是个插件,它让前台显示更适合国人浏览)放在 CodoForum 实例相应的目录下;
 * 上面提到的更适合国人浏览指的是: 默认采用苹果的宋体细黑和微软雅黑字体显示中文;
 * 好了!
+
+## 截图
+
+![CodoForum](https://raw.githubusercontent.com/CoolWP/codoforum/master/screenshot/97.jpg)
+
+![CodoForum](https://raw.githubusercontent.com/CoolWP/codoforum/master/screenshot/98.jpg)
