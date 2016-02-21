@@ -6,7 +6,6 @@
  * @Last Modified time: 2016-02-21 01:54:14
  */
 defined('IN_CODOF') or die();
-
 function cf4cn_add_head_js(){
 
 
