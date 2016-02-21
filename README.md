@@ -14,6 +14,10 @@ CodoForum 是一个 PHP + MySQL 的轻量级的论坛程序, 简洁高效实用�
 
 ## 截图
 
+前台示意
+
 ![CodoForum](https://raw.githubusercontent.com/CoolWP/codoforum/master/screenshot/97.jpg)
+
+后台示意
 
 ![CodoForum](https://raw.githubusercontent.com/CoolWP/codoforum/master/screenshot/98.jpg)
